@@ -1,0 +1,25 @@
+# Данные пользователей (AM запоминает жертв)
+am_victims.txt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+ENV/
+env/
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
