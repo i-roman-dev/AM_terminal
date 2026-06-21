@@ -195,3 +195,6 @@ AM не несёт ответственности за:
 </div>
 ```
 
+<img width="898" height="628" alt="image" src="https://github.com/user-attachments/assets/39af1008-5209-43df-b856-192145cd10a5" />
+
+
