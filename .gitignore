@@ -1,25 +1,27 @@
-# Данные пользователей (AM запоминает жертв)
-am_victims.txt
-*.log
-
 # Python
 __pycache__/
 *.py[cod]
-venv/
-ENV/
-env/
+*$py.class
+*.so
+.Python
 build/
 dist/
+*.spec
 *.egg-info/
 
-# PyInstaller
-*.manifest
-*.spec
+# Локальные файлы проекта
+am_victims.txt
+am_terminal.log
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
 
 # IDE
 .vscode/
 .idea/
+*.swp
 
-# OS
-.DS_Store
-Thumbs.db
+# Ollama installer (если остался)
+OllamaSetup.exe
