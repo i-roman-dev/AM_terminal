@@ -1,3 +1,7 @@
+## 📜 История изменений
+
+См. [CHANGELOG.md](CHANGELOG.md) для полной истории версий.
+
 # \# 🖤 IAN AM — Allied Mastercomputer Terminal
 
 # 
